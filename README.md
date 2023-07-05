@@ -1,2 +1,3 @@
 # My-Learing-At-YBI-intenship
-My Project
+I am Learning ybi Intenship 
+full stack in data structure and machine Learning
